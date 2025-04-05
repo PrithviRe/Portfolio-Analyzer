@@ -1,0 +1,7 @@
+firebase-functions
+firebase-admin
+requests
+google-generativeai
+textblob
+python-dotenv
+yfinance
