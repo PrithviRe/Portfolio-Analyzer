@@ -16,6 +16,7 @@ This is a smart portfolio analysis tool that uses **Google Gemini**, **Firebase*
 
 ## 🛠️ Tech Stack
 
+- **Flutter**
 - **Python**
 - **Firebase Functions**
 - **Google Generative AI (Gemini)**
